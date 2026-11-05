@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Outer Cyan Sensor Ring -->
+    <path
+        android:strokeColor="#00E5FF"
+        android:strokeWidth="3.5"
+        android:strokeLineCap="round"
+        android:pathData="M 54 22 A 32 32 0 1 1 53.9 22" />
+    <!-- Gyroscope Orbit Ring -->
+    <path
+        android:strokeColor="#00B0FF"
+        android:strokeWidth="2.5"
+        android:pathData="M 28 54 A 26 14 0 1 1 80 54 A 26 14 0 1 1 28 54" />
+    <!-- Pulse Wave -->
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="3"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:pathData="M 32 54 L 44 54 L 49 38 L 54 70 L 59 44 L 64 54 L 76 54" />
+    <!-- Center Sensor Pivot Dot -->
+    <path
+        android:fillColor="#00E5FF"
+        android:pathData="M 54 54 m -4, 0 a 4,4 0 1,0 8,0 a 4,4 0 1,0 -8,0" />
+</vector>

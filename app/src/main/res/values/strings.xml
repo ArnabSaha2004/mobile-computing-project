@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MotionData</string>
+    <string name="app_tagline">Robotics IMU Motion Capture</string>
+</resources>

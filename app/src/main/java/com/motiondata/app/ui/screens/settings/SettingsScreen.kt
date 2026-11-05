@@ -39,6 +39,7 @@ import com.motiondata.app.data.model.SamplingFrequency
 import com.motiondata.app.data.model.SensorSpec
 import com.motiondata.app.ui.components.RoboticsTopBar
 import com.motiondata.app.ui.screens.setup.SensorStatusRow
+import com.motiondata.app.ui.theme.AxisXColor
 import com.motiondata.app.ui.theme.BlueElectric
 import com.motiondata.app.ui.theme.CharcoalBackground
 import com.motiondata.app.ui.theme.CharcoalCard

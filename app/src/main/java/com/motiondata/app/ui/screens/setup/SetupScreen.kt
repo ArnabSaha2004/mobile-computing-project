@@ -67,7 +67,7 @@ import com.motiondata.app.ui.theme.TextPrimary
 import com.motiondata.app.ui.theme.TextSecondary
 import com.motiondata.app.ui.theme.TextTertiary
 
-@OptOptIn(ExperimentalLayoutApi::class)
+@OptIn(ExperimentalLayoutApi::class)
 @Composable
 fun SetupScreen(
     viewModel: SetupViewModel,

@@ -540,7 +540,7 @@ fun SensorStatusRow(
             imageVector = if (available) Icons.Default.CheckCircle else Icons.Default.Warning,
             contentDescription = null,
             tint = if (available) StatusGreen else AxisXColor,
-            modifier = Modifier.size(16.dp).padding(top = 2.dp)
+            modifier = Modifier.size(16.dp)
         )
         Column {
             Text(
